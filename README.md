@@ -1,4 +1,4 @@
-# About Me:
+# Sobre mí:
 ¡Hola! Soy un apasionado programador con una gran sed de conocimiento y con la determinación para sobresalir en el mundo de la programación. Mi pasión por la tecnología me impulsa a buscar constantemente nuevos desafíos y oportunidades para crecer y aprender.<br><br>He estado inmerso en el mundo de la programación, explorando diferentes lenguajes y tecnologías para expandir mis habilidades y conocimientos.<br><br>Estoy emocionado por participar en proyectos diversos y colaborativos que me permitan aplicar mis habilidades y contribuir al éxito del equipo. Mi objetivo es no solo mejorar mis habilidades técnicas, sino también aprender de mis compañeros y trabajar en un entorno que fomente el crecimiento profesional y personal.<br><br>¡Estoy aquí y listo para ser parte de tu próximo proyecto!
 
 
